@@ -29,3 +29,7 @@ faculty members to monitor the academic progress of their students and provide
 support as needed. Overall, the student portal will be a valuable resource for 
 students and faculty members alike, providing a comprehensive overview of a student's 
 academic progress and profile.
+
+We believe this isn't currently available at the current university's portal and a 
+simple structured program can be written to visualize what the portal could do without 
+the visual design component and real time data fetching capabilities.
