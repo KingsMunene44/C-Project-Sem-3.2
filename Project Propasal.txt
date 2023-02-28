@@ -1,0 +1,31 @@
+Student Portal Project Proposal.
+
+
+1. Kings Munene ENE211-0219/2019
+2. Murerwa Daniel ENE211-0022/2019
+3. Sharlyn Omenya
+ENE211-0259/2019
+4. Mbae Brenda Pat Makena
+ENE211-0171/2018
+5. Wambugu Grace ENE211-0286/2020
+6. Ian Gitimu
+ENE211-0028/2020
+
+
+The proposed project is a student portal that aims to provide all necessary information 
+regarding a student's academic progress and profile. The portal will be designed to allow 
+students to access their personal information such as their name, registration number, age, year of admission, 
+and email. Additionally, the portal will provide students with real-time updates on their
+academic progress by displaying their current units and examination results. 
+This will provide students with a comprehensive overview of their academic progress, 
+allowing them to monitor their performance and identify areas of improvement.
+
+The student portal will also include a fee structure section that will display 
+detailed information about the cost of tuition, registration fees, and any other 
+relevant financial information. This will provide students with a clear understanding 
+of their financial obligations and help them to plan their finances accordingly. 
+The portal will be accessible to both students and faculty members, enabling 
+faculty members to monitor the academic progress of their students and provide 
+support as needed. Overall, the student portal will be a valuable resource for 
+students and faculty members alike, providing a comprehensive overview of a student's 
+academic progress and profile.
